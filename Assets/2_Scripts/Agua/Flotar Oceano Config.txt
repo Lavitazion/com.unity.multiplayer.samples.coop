@@ -1,0 +1,14 @@
+Configuración Barco Principal:
+6 Puntos Empty Flotantes: (cada uno con copia del script)
+
+DepthBefSub 1
+DisplacementAmt 1
+Floaters 6
+Water Drag 10
+Water Angular Drag 10
+
+Rigidbody Barco:
+Mass 2
+Drag 8
+Angular Drag 45 
+

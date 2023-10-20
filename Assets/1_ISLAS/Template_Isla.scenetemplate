@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Template_Isla
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 920f7d3064a69e247a83a93ab7cb92ad, type: 3}
+  templateName: Mapa Isla Base
+  description: Preconfigurada como base para empezar a crear una nueva isla
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 32b23d5d74f3aee4f9364e34e2f59379, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 31f47d3807109374ab564767abda71ab, type: 3}
+    instantiationMode: 1
+  templatePipeline: {fileID: 11500000, guid: bb8f64a1a3fb68a4cbf67cbd91b62c70, type: 3}
+  badge: {fileID: 0}
+  addToDefaults: 1
